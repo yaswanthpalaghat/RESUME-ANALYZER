@@ -1,0 +1,117 @@
+
+        body{
+        background-image:url("bg.jpg")
+        }
+
+
+div.a{
+background-color: #ecf0f1;
+width:1350px;
+display: block;
+overflow: hidden;
+}
+h1.a{
+color:#2980b9;
+font-size: 40px;
+}
+h4.a{
+color:#2980b9;
+font-size: 20px;
+font-family: forte ;
+}
+img.b{
+display: block;
+overflow: hidden;
+}
+h1{
+font-family:forte;
+font-size:35px;
+}
+h3{
+font-size:30px;
+font-family:baskerville old face;
+}
+div.d{
+background-color:white;
+} 
+        
+}
+div{
+background:url("http://images.all-free-download.com/images/graphiclarge/nostalgic_blue_background_04_hd_pictures_169785.jpg");
+}
+.container-fluid {
+    overflow: hidden;
+   background:url("http://images.all-free-download.com/images/graphiclarge/nostalgic_blue_background_04_hd_pictures_169785.jpg");
+    font-family: algerian;
+}
+
+.container-fluid a {
+    float: left;
+    font-size: 22px;
+    color: white;
+    text-align: center;
+    padding: 35px 100px;
+    text-decoration: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 30px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 35px 100px;
+    background-color: inherit;
+}
+
+.container-fluid a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    text-size: 12px;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 10px 10px;
+    text-decoration: none;
+    text-size: 12px;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+ div.form{
+background:url("paper.jpg");
+
+}
+h1.b{
+text-size:200px;
+font-family:algerian;
+text-align: center;
+} 
+h1.c{
+text-size:75px;
+font-family:algerian;
+text-align: center;
+color:yellow;
+}
