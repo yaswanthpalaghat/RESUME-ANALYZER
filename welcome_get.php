@@ -116,8 +116,7 @@ window.print()
 </ul>
 </div>
 <div align="center">
-				<a href="javascript:forprint()">
-					 <h1 font-style="algerian"><strong>Click here to Print the resume</strong></h1></a>
+				<a href="pdf_server.php?file=pdffilename">Download</a>
 		</div>
 
 </body>
